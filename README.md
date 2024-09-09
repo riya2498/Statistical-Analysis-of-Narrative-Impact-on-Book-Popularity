@@ -1,0 +1,1 @@
+# Statistical-Analysis-of-Narrative-Impact-on-Book-Popularity
