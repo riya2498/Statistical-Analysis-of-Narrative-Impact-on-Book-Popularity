@@ -20,10 +20,14 @@ This analysis investigates the factors influencing the popularity of English-lan
 **Pacing (speed)**, **sentiment average**, and **sentiment volatility** are significant predictors, influencing reader interest and engagement.
 ## 4. Significant Predictors
 The most critical factors identified by LASSO regression are:
-Skewness KLD\n
-Rolling Mean KLD\n
-Pacing (speed)\n
-Sentiment Average\n
+Skewness KLD
+
+Rolling Mean KLD
+
+Pacing (speed)
+
+Sentiment Average
+
 Sentiment Volatility
 
 # Conclusion
